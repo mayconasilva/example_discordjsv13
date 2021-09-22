@@ -1,0 +1,1 @@
+Exemplo de bot na nova versão do Discord.js com slash commands
